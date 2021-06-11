@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:parallax_effect/bottomSheet.dart';
 import 'package:parallax_effect/slider.dart';
 
 class HomePage extends StatelessWidget {
